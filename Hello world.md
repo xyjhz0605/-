@@ -1,1 +1,3 @@
-Hello world
+def start():
+print("Hello world!")
+start
